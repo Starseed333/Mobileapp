@@ -4,7 +4,7 @@
 
 ### **Description**
 
-A mobile web application mockup with the implementation of service worker and cache to enable data to be rendered to the user even when they have no wi-fi. The cache API's stores the HTML, CSS, Javascript and Images. The data is stored using the Indexed DB.
+A mobile web application mockup with the implementation of service worker and cache to enable data to be rendered to the user even when they have no wi-fi. The cache API's stores the HTML, CSS, JavaScript and Images. The data is stored using the Indexed DB.
 
 [IndexedDB Tutorial](https://youtu.be/vCumk1sXHcY)
 
